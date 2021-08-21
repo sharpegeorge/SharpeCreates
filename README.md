@@ -1,7 +1,7 @@
 👋 Hi, I’m @SharpeCreates <br/>
-👀 I’m interested in Machine Learning
-🌱 I’m currently learning the foundations of becoming a Machine Learning Software Engineers.
-💞️ I’m looking to collaborate on small scale projects using Python or C#
+👀 I’m interested in Machine Learning <br/>
+🌱 I’m currently learning the foundations of becoming a Machine Learning Software Engineers. <br/>
+💞️ I’m looking to collaborate on small scale projects using Python or C# <br/>
 📫 Reach me on discord at Sharpe Creates#8360
 
 <!---
