@@ -1,4 +1,5 @@
-Hey, welcome to my page.
+Hey! I'm George. About me:
 
--Current Languages: C#, Java, Python<br />
--Contact me on discord: sharpeg<br />
+* CS Student at Exeter University
+* Firm believer in Clean Code and reusability
+* Fast learner and craving new experiences
